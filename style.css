@@ -48,8 +48,8 @@ button{
     text-transform: uppercase;
     background-color: #333333;
     border-style: none;
-    width: 16em;
-    height: 8em;
+    width: 216px;
+    height: 68px;
 }
 
 img
@@ -133,6 +133,12 @@ img
 
     .badnews{
         max-width: auto;
+    }
+    
+    button{
+        width: 250px;
+        height: 100px;
+        font-size: 30px
     }
 
     img
