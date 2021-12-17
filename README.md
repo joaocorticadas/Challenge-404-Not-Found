@@ -11,6 +11,7 @@
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
+                  <span> | </span>
     <a href="https://inspiring-haibt-1ae0b2.netlify.app/">
       Solution
     </a>
