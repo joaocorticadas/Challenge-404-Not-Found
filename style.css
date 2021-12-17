@@ -118,11 +118,11 @@ img
     }
     
     h2{
-        font-size: 40
+        font-size: 40px
     }
 
     p{
-        font-size: 24px;
+        font-size: 30px;
         max-width: auto;
         max-height: auto;
     }
