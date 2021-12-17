@@ -8,13 +8,12 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
-    <a href="https://inspiring-haibt-1ae0b2.netlify.app/">
-      Solution
-    </a>
-    <span> | </span>
+        <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
+    </a>
+    <a href="https://inspiring-haibt-1ae0b2.netlify.app/">
+      Solution
     </a>
   </h3>
 </div>
@@ -66,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- LinkedIn [@joaocorticadas](https://{www.linkedin.com/in/joaocorticadas/})
-- GitHub [@joaocorticadas](https://{github.com/joaocorticadas})
+- LinkedIn [@joaocorticadas](www.linkedin.com/in/joaocorticadas/)
+- GitHub [@joaocorticadas](github.com/joaocorticadas)
