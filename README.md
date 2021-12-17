@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Challenge - 404 Page Not Found</h1>
+<h1 align="center">Challenge - 404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">Devchallenges.io</a>.
