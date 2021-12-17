@@ -116,9 +116,15 @@ img
         font-size: 68px;
         max-width: 100%;
     }
+    
+    h2{
+        font-size: 40
+    }
 
     p{
         font-size: 24px;
+        max-width: auto;
+        max-height: auto;
     }
 
     .header{
